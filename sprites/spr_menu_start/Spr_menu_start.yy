@@ -10,10 +10,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 4,
-  "bbox_right": 947,
-  "bbox_top": 5,
-  "bbox_bottom": 277,
+  "bbox_left": 45,
+  "bbox_right": 915,
+  "bbox_top": 29,
+  "bbox_bottom": 257,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -71,6 +71,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Menu",
-    "path": "folders/Sprites/Geral/Menu.yy",
+    "path": "folders/Sprites/Menu.yy",
   },
 }

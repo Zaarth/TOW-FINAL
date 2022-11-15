@@ -17,13 +17,12 @@
   ],
   "layers": [
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"tittle","assets":[
-        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_7A2730D9","spriteId":{"name":"spr_tittle","path":"sprites/spr_tittle/spr_tittle.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.8733945,"scaleY":0.7780679,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":294.5633,"y":212.61096,},
+        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_74BB479C","spriteId":{"name":"spr_tittle","path":"sprites/spr_tittle/spr_tittle.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":185.0,"y":140.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"mouse","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6FC14077","properties":[],"isDnd":false,"objectId":{"name":"obj_menu_mouse","path":"objects/obj_menu_mouse/obj_menu_mouse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":32.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Botoes","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D46008D","properties":[],"isDnd":false,"objectId":{"name":"obj_menu_background_buttons","path":"objects/obj_menu_background_buttons/obj_menu_background_buttons.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.9,"scaleY":0.9,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1009.5,"y":179.90002,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C5CA57B","properties":[],"isDnd":false,"objectId":{"name":"obj_menu_configuracoes","path":"objects/obj_menu_configuracoes/obj_menu_configuracoes.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.3,"scaleY":0.3,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1254.6001,"y":430.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_79953924","properties":[],"isDnd":false,"objectId":{"name":"obj_menu_start","path":"objects/obj_menu_start/obj_menu_start.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.3,"scaleY":0.3,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1254.6,"y":326.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10DC753E","properties":[],"isDnd":false,"objectId":{"name":"obj_menu_sair","path":"objects/obj_menu_sair/obj_menu_sair.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":1184.0,"y":600.0,},
@@ -45,7 +44,6 @@
     {"name":"inst_4D4ED824","path":"rooms/Rm_menu/Rm_menu.yy",},
     {"name":"inst_6FC14077","path":"rooms/Rm_menu/Rm_menu.yy",},
     {"name":"inst_18751F1E","path":"rooms/Rm_menu/Rm_menu.yy",},
-    {"name":"inst_3D46008D","path":"rooms/Rm_menu/Rm_menu.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

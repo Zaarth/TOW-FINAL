@@ -28,6 +28,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Menu",
-    "path": "folders/Objects/Geral/Menu.yy",
+    "path": "folders/Objects/Menu.yy",
   },
 }

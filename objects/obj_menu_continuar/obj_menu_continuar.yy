@@ -34,7 +34,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objects/Geral/Menu.yy",
+    "name": "Menu_Pause",
+    "path": "folders/Objects/Menu/Menu_Pause.yy",
   },
 }

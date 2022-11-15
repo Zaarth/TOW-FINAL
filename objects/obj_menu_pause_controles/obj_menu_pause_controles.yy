@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_menu_pause_controles",
   "spriteId": {
-    "name": "spr_menu_controles",
-    "path": "sprites/spr_menu_controles/spr_menu_controles.yy",
+    "name": "spr_controlesP",
+    "path": "sprites/spr_controlesP/spr_controlesP.yy",
   },
   "solid": false,
   "visible": true,
@@ -35,6 +35,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Menu_Pause",
-    "path": "folders/Objects/Geral/Menu/Menu_Pause.yy",
+    "path": "folders/Objects/Menu/Menu_Pause.yy",
   },
 }

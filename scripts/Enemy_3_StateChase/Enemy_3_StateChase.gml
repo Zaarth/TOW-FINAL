@@ -53,7 +53,7 @@ if distance_to_object(obj_player) > distance_to_chase
 {
 	state = Enemy_3_State.IDLE;
 }
-if distance_to_object(obj_player) < 30
+if distance_to_object(obj_player) < 100
 {
 	state = Enemy_3_State.ATK
 }

@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Creditos",
-    "path": "folders/Sprites/Geral/Menu/Creditos.yy",
+    "path": "folders/Sprites/Menu/Creditos.yy",
   },
 }

@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_voltar_menu",
   "spriteId": {
-    "name": "spr_voltar_menu",
-    "path": "sprites/spr_voltar_menu/spr_voltar_menu.yy",
+    "name": "Spr_voltar",
+    "path": "sprites/Spr_voltar/Spr_voltar.yy",
   },
   "solid": false,
   "visible": true,
@@ -35,6 +35,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Menu_Pause",
-    "path": "folders/Objects/Geral/Menu/Menu_Pause.yy",
+    "path": "folders/Objects/Menu/Menu_Pause.yy",
   },
 }

@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Final",
-    "path": "folders/Sprites/Geral/Menu/Final.yy",
+    "path": "folders/Sprites/Menu/Final.yy",
   },
 }
