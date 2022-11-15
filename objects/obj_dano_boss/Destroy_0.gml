@@ -1,5 +1,9 @@
 
+
 if(pai)
 {
-	pai.dano = noone;
+	if(instance_exists(obj_enemy3_BOSS)){
+		pai.dano = noone;
+	}
 }
+

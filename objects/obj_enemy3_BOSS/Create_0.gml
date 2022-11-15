@@ -8,8 +8,10 @@ distance = 700;
 distance_to_chase = 300;
 distance2 = 20;
 image_speed = 0.4;
-flash = 0;
 state = Enemy_3_State.IDLE;
+
+//clarão do hit
+flash = 0;
 
 //Range
 dano_range = noone;
@@ -17,6 +19,7 @@ posso_range = true;
 ataque_range = 1;
 cd = true;
 
+//melee
 dano = noone;
 ataque = 1;
 posso = true;   //se ele pode atacar
