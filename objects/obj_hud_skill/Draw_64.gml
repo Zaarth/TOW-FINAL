@@ -16,7 +16,7 @@ if (obj_player.cd == true){
 }
 else{
 	draw_set_color(c_white);
-	draw_text(x - 20, y - 10, obj_player.alarm[0]/60);
+	//draw_text(x - 20, y - 10, obj_player.alarm[0]/60);
 	draw_sprite(spr_dano_skill_timer, image_index , x, y);
 	image_speed = .295;
 }

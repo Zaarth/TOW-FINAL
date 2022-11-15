@@ -11,7 +11,7 @@ if state = Enemy_3_State.ATK
 		dano.dano = ataque;
 		dano.pai = id;
 		posso = false;
-		obj_dano_boss.alarm [0] = 30;
+		obj_dano_boss.alarm [0] = 10;
 		
 	}
 	//Destruindo o dano
