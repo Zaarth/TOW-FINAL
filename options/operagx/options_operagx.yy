@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.0",
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_game_name": "ToW1.0",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "8cb52d1c-52bc-428c-9a17-880cf16afaeb",
+  "option_operagx_team_name": "(3ba3e3e9-45a8-472f-b0a3-0bbe3297d350) studio",
+  "option_operagx_team_id": "3ba3e3e9-45a8-472f-b0a3-0bbe3297d350",
+  "option_operagx_editUrl": "https://create.gx.games/game/8cb52d1c-52bc-428c-9a17-880cf16afaeb/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
