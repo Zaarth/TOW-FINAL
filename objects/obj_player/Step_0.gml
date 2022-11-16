@@ -27,7 +27,7 @@ if place_meeting(x, y, obj_tp1) || place_meeting(x, y, obj_tp2) || place_meeting
 }
 
 #region Dialogo
-if distance_to_object(obj_par_npcs) <= 50 and keyboard_check_pressed(ord("V")){
+if distance_to_object(obj_par_npcs) <= 50 and keyboard_check_pressed(ord("E")){
 	var _npc = instance_nearest(x, y, obj_par_npcs);
 	var _dialogo = instance_create_layer(x, y, "Dialogo", obj_dialogo);
 	_dialogo.npc_nome = _npc.nome;
