@@ -1,7 +1,7 @@
 function scr_textos(){
 	switch npc_nome{
 		case "Mercador":
-			texto[0] = "Olá companheiro!!! Se está procurando por alguns suprimentos você encontrou a pessoa certa. Com apenas algumas moedas posso conseguir alguns itens que irão ajudar bastante a sua jornada.";
+			texto[0] = "Olá meu amigo, acredito que sua jornada vai ser um pouco difícil. Tome essa poção mágica, ela pode te ajudar quando estiver em alguma situação complicada."
 		break;
 	}
 }
