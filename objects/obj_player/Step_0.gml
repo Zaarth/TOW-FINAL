@@ -19,6 +19,7 @@ if (keyboard_check_pressed(ord("H"))){
 	hp_actual -= 1;
 }
 
+//Resetar o CD na troca de mapa
 if place_meeting(x, y, obj_tp1) || place_meeting(x, y, obj_tp2) || place_meeting(x, y, obj_tp3) || place_meeting(x, y, obj_tp4){
 	cd = true;
 	cd_heal = true;
