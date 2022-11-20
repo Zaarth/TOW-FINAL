@@ -7,7 +7,7 @@
     "path": "sprites/spr_dano_player/spr_dano_player.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

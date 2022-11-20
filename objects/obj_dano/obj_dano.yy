@@ -7,7 +7,7 @@
     "path": "sprites/spr_dano/spr_dano.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
