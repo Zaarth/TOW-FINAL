@@ -7,7 +7,7 @@
     "path": "sprites/spr_teleport2/spr_teleport2.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
