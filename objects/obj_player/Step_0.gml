@@ -34,3 +34,12 @@ if distance_to_object(obj_par_npcs) <= 50 and keyboard_check_pressed(ord("E")){
 	_dialogo.npc_nome = _npc.nome;
 }
 #endregion
+
+#region DialogoNI
+if distance_to_object(obj_par_npcs_NI) <= 50 and gatilho = true{
+	var _npc = instance_nearest(x, y, obj_par_npcs_NI);
+	var _dialogo = instance_create_layer(x, y, "Dialogo", obj_dialogo);
+	_dialogo.npc_nome = _npc.nome;
+	gatilho = false;
+}
+#endregion

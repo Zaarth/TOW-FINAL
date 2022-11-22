@@ -1,0 +1,2 @@
+nome = "Buraco";
+gatilho = true;
