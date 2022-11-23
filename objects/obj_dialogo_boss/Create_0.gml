@@ -1,0 +1,2 @@
+nome = "Boss";
+gatilho = true;
