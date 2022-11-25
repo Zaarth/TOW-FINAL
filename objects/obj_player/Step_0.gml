@@ -14,10 +14,6 @@ if(obj_player.y > 1400) && (room == Room1)
 	game_restart();
 }
 
-if (keyboard_check_pressed(ord("H"))){
-	state = PlayerState.HURT;	
-	hp_actual -= 1;
-}
 
 //Resetar o CD na troca de mapa
 if place_meeting(x, y, obj_tp1) || place_meeting(x, y, obj_tp2) || place_meeting(x, y, obj_tp3) || place_meeting(x, y, obj_tp4){

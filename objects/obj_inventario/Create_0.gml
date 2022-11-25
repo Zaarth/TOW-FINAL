@@ -1,4 +1,4 @@
-inventario = false;
+/*inventario = false;
 escala = 2.8;
 
 comeco_x = 15 * escala;
@@ -42,4 +42,4 @@ grid_itens[# Infos.Item, 2] = Item_Armas.Arco;
 grid_itens[# Infos.Quantidade, 2] = 2;
 //Quinto Slot
 grid_itens[# Infos.Item, 4] = Item_Armas.Cajado;
-grid_itens[# Infos.Quantidade, 4] = 4;
+grid_itens[# Infos.Quantidade, 4] = 4;*/ 
