@@ -122,7 +122,7 @@ if place_meeting(x+1,y+1,obj_espinhos){
 	state = PlayerState.DEAD;
 }
 
-if (cura && hp_actual < 3 && cd_heal){
+if (cura && hp_actual < 3 && cd_heal && pega_potion == true){
 	state = PlayerState.HEAL;	
 }
 

@@ -11,6 +11,8 @@ mid_hspd = 0;
 
 state = PlayerState.FREE;
 
+//Pegou a potion
+pega_potion = false;
 
 right = true;
 
