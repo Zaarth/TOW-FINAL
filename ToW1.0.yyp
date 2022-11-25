@@ -223,6 +223,7 @@
     {"id":{"name":"spr_enemy_3_run","path":"sprites/spr_enemy_3_run/spr_enemy_3_run.yy",},"order":2,},
     {"id":{"name":"PlayerStateHurt","path":"scripts/PlayerStateHurt/PlayerStateHurt.yy",},"order":4,},
     {"id":{"name":"spr_enemy_4_run","path":"sprites/spr_enemy_4_run/spr_enemy_4_run.yy",},"order":0,},
+    {"id":{"name":"spr_vida_background","path":"sprites/spr_vida_background/spr_vida_background.yy",},"order":21,},
     {"id":{"name":"spr_vilamiddle","path":"sprites/spr_vilamiddle/spr_vilamiddle.yy",},"order":1,},
     {"id":{"name":"mapagrass","path":"tilesets/mapagrass/mapagrass.yy",},"order":1,},
     {"id":{"name":"BossStateHurt","path":"scripts/BossStateHurt/BossStateHurt.yy",},"order":4,},
