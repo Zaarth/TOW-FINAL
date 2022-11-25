@@ -11,6 +11,7 @@ mid_hspd = 0;
 
 state = PlayerState.FREE;
 
+
 right = true;
 
 //Skill 1

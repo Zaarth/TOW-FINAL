@@ -2,7 +2,7 @@ spd = 7;
 hspd = 0;
 vspd = 0;
 grv = 0.4;
-hp = 10;
+hp = 1;
 hp_actual = hp;
 distance = 700;
 distance_to_chase = 300;
@@ -12,6 +12,8 @@ state = Enemy_3_State.IDLE;
 
 //clarão do hit
 flash = 0;
+
+
 
 //Range
 dano_range = noone;

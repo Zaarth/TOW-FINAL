@@ -7,7 +7,8 @@ if(flash > 0){
 	shader_reset();
 }
 
-
+//colocar o hp em cima do player
+/*
 draw_set_font(fnt_dmg);
 draw_set_color(c_white);
-draw_text(x, y- sprite_height, hp_actual);
+draw_text(x, y- sprite_height, hp_actual);*/

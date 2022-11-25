@@ -1,9 +1,11 @@
 function Enemy_3_StateDead(){
-	if (sprite_index != spr_enemy_3_dead)
+	if (sprite_index != spr_enemy_3_dead_aura)
 	{
 		image_index = 0;
 	}
-	sprite_index = spr_enemy_3_dead;
+	sprite_index = spr_enemy_3_dead_aura;
+	
+	
 if (image_index > image_number-1){
 	
 	//Resetando o CD na morte do boss
@@ -13,6 +15,6 @@ if (image_index > image_number-1){
 	obj_player.alarm [1] = 0;
 	
 	instance_destroy();
-	room_goto(Rm_final);
-}
+	obj_player.alarm[2] = 60;
+	}
 }

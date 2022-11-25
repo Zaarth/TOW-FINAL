@@ -32,7 +32,7 @@
     {"id":{"name":"Enemy_2_StateDead","path":"scripts/Enemy_2_StateDead/Enemy_2_StateDead.yy",},"order":3,},
     {"id":{"name":"obj_dialogo_boss","path":"objects/obj_dialogo_boss/obj_dialogo_boss.yy",},"order":3,},
     {"id":{"name":"Shader7","path":"shaders/Shader7/Shader7.yy",},"order":3,},
-    {"id":{"name":"spr_aura_diminoi","path":"sprites/spr_aura_diminoi/spr_aura_diminoi.yy",},"order":13,},
+    {"id":{"name":"spr_enemy_3_dead_aura","path":"sprites/spr_enemy_3_dead_aura/spr_enemy_3_dead_aura.yy",},"order":13,},
     {"id":{"name":"spr_menusair","path":"sprites/spr_menusair/spr_menusair.yy",},"order":4,},
     {"id":{"name":"spr_alma","path":"sprites/spr_alma/spr_alma.yy",},"order":9,},
     {"id":{"name":"tile_floor","path":"tilesets/tile_floor/tile_floor.yy",},"order":1,},
